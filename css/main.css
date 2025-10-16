@@ -1,8 +1,30 @@
 body {
-    background-color: brown;
+    background-color:#D7D6A5;
+
 }
-.style_fon {
-    background-color: red;
-    height: 800px;
-    width: 1200px;
+.style_nav_buttons {
+    text-decoration: none;
+    color:#F4F3D1;
+    margin-right: 20px;
+}
+.nav_buttons {
+    position: relative;
+    display: flex;
+    text-align:center;
+    list-style: none;
+    border: 0px solid ;
+    background-color:#63622E;
+    border-radius: 20px;
+    width: 270px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+
+}
+.nav_buttons_location {
+    float: right;
+}
+.image_tree {
+    float: right;
 }
