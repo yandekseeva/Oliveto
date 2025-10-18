@@ -29,14 +29,34 @@ body {
 }
 .image_tree {
     float: right;
-    width:718.3687744140625px; 
-    height:469.8515319824219px;
-    margin-left: 482px;
+    width: 60%; 
+    height: 28%;
 }
 .header_block {
     float: right;
     background-color: #F4F3D1;
     height: 331px;
-    width: 718.3687744140625px;
-
+    width: 60%;
+}
+.button_bookie {
+    position:absolute;
+    border: 0px solid;
+    border-radius: 60.5px;
+    margin-left: 471px;
+    margin-top: 494px;
+    width: 432.5249938964844px;
+    height: 89.62963104248047px;
+    background-color: #F4F3D1;
+    color:#D7D6A5;
+}
+.schedule {
+    margin-left: 1000px;
+    position: absolute;
+}
+.div1 {
+    display: inline-block;
+}
+.adres {
+    position:absolute;
+    margin-left: 501px;
 }
