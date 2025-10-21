@@ -1,6 +1,7 @@
-body {
+section {
+    height: 100%;
+    width: 100%;
     margin:0px;
-    background-image: url(\Oliveto\Oliveto\images\header_pk.svg) no-repeat;
 }
 .style_nav_buttons {
     text-decoration: none;
@@ -27,23 +28,12 @@ body {
     top:59px;
     right:52px;
 }
-.image_tree {
-    float: right;
-    width: 60%; 
-    height: 28%;
-}
-.header_block {
-    float: right;
-    background-color: #F4F3D1;
-    height: 331px;
-    width: 60%;
-}
 .button_bookie {
     position:absolute;
     border: 0px solid;
     border-radius: 60.5px;
     margin-left: 471px;
-    margin-top: 494px;
+    margin-top: 394px;
     width: 432.5249938964844px;
     height: 89.62963104248047px;
     background-color: #F4F3D1;
