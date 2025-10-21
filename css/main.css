@@ -2,7 +2,7 @@ section {
     height: 100%;
     width: 100%;
     margin:0px;
-    background-image: url(\Oliveto\images\header_pk.svg) no-repeat;
+    background-image: url('images\header_pk.svg') no-repeat;
 }
 .style_nav_buttons {
     text-decoration: none;
