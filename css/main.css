@@ -2,6 +2,10 @@ section {
     height: 100%;
     width: 100%;
     margin:0px;
+<<<<<<< HEAD
+=======
+    background-image: url(\Oliveto\images\header_pk.svg) no-repeat;
+>>>>>>> b014ad31694b6679e48efab9c6348e93d5631fd3
 }
 .style_nav_buttons {
     text-decoration: none;
