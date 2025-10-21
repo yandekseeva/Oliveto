@@ -1,6 +1,6 @@
 body {
-    background-color:#D7D6A5; 
     margin:0px;
+    background-image: url(\Oliveto\Oliveto\images\header_pk.svg) no-repeat;
 }
 .style_nav_buttons {
     text-decoration: none;
@@ -59,4 +59,28 @@ body {
 .adres {
     position:absolute;
     margin-left: 501px;
+}
+.logo_img {
+    position: absolute;
+    height:153px; 
+    width:378px; 
+    margin-top:95px; 
+    margin-left:42px;
+}
+.logo {
+    overflow: hidden;
+    height:153px; 
+    width:378px; 
+    margin-top:95px; 
+    margin-left:42px;
+    animation-duration: 1s;
+    animation-name: slidein;
+}
+@keyframes slidein {
+    from {
+        margin-top: 100%;
+    }
+    to {
+        margin-top: 95px;
+    }
 }
