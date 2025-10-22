@@ -2,9 +2,9 @@ body {
     margin: 0px;    
 }
 .first_page {
-    width: 1200px;
-    height: 800px;
     background: url('header_pk.svg') top right/130% 100% no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
 }
 .style_nav_buttons {
     text-decoration: none;
