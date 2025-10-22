@@ -5,6 +5,7 @@ body {
     background: url('header_pk.svg') top right/130% 100% no-repeat;
     background-attachment:fixed;
     background-size: cover;
+    height: 700px;
 }
 .style_nav_buttons {
     text-decoration: none;
@@ -32,7 +33,6 @@ body {
     right:52px;
 }
 .button_bookie {
-    position:absolute;
     border: 0px solid;
     border-radius: 60.5px;
     margin-left: 471px;
@@ -50,7 +50,6 @@ body {
     display: inline-block;
 }
 .adres {
-    position:absolute;
     margin-left: 501px;
 }
 .logo_img {
@@ -76,4 +75,8 @@ body {
     to {
         margin-top: 95px;
     }
+}
+.second_page{
+    background-color:#F4F3D1;
+    background-size: cover;
 }
